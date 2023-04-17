@@ -10,7 +10,7 @@ const initialState = {
 // User slice
 const userSlice = createSlice({
   // Nombre del slice
-  name: "user",
+  name: "userSlice",
   initialState,
   // Reducers
   reducers: {
